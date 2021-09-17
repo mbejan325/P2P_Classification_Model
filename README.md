@@ -4,7 +4,7 @@
 
 ![markdown-image](p2p.jpg)
 
-This project contains the files to an application that, through the use of data on historical lending activity from a peer-to-peer lending services company, classifies loans based on applicant's credit risk. This application uses imbalanced data, that is data where the number of healthy and unhealthy loans is not equal, and produces a model that accurates classifies creditworthiness of borrowers.
+This project contains the files to an application that, through the use of data on historical lending activity from a peer-to-peer lending services company, classifies loans based on applicant's credit risk. This application uses imbalanced data, that is data where the number of healthy and unhealthy loans is not equal, and produces a model that accurates classifies creditworthiness of borrowers. This project can be used by various lending agencies to gauge the creditworthiness of their clientele. 
 
 **Technologies** 
 
