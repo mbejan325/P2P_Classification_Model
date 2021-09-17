@@ -24,7 +24,7 @@ Operating System: Windows 10
 2) Open up your python CLI and activate the 'dev' environment. Python version 3.7.10 needs to be used.
 3) Navigate to the "P2P_Classification_Model" folder and open the folder labeled "Starter_Code". Then run either "jupyter lab" or "jupyter notebook" to open up the jupyter interface with worksheet.
 4) This project can also be ran via google colab, by downloading the "final_credit_risk_resampling.ipynb" file and uploading it in google colab.
-5) In any of the three interfaces, run the worksheet. When all of the code has been ran, viewers will be able to see various reports on the models accuracy of the data. If desired, viewers can also view portions of the raw data by adjusting the head function value within the paranthesis. No number will display the first 5 rows.
+5) In any of the three interfaces, run the worksheet. When all of the code has been ran, viewers will be able to see various reports on the models accuracy of the data. If desired, viewers can also view portions of the raw data by adjusting the head function value within the paranthesis. No number in between the paranthesis will simply display the first 5 rows.
 
 **Usage Examples**
 
